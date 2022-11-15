@@ -25,3 +25,4 @@
   ![Snake animation](https://github.com/danielfugimoto/danielfugimoto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
