@@ -20,7 +20,7 @@
    <a href="https://instagram.com/danielfugimoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  	<a href="https://www.twitch.tv/fugimoto" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href = "mailto:danielfugimoto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/daniel-fugimoto-931360218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-fugimoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "https://danielfugimoto.github.io/dfugimoto.github.io/index.html"><img src="https://img.shields.io/badge/-site-%23E4405F?style=for-the-badge&logo=website&logoColor=white"></a>
  
   ![Snake animation](https://github.com/danielfugimoto/danielfugimoto/blob/output/github-contribution-grid-snake.svg)
