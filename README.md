@@ -24,4 +24,4 @@ Realizei
 * **Idade**: 27
 * **Morando em**: Maringá - PR, Brasil
 * **Stack**: JS - PYTHON - PHP - C#
-* **Universidade**: Terminando Análise e Deenvolvimento de Sistemas
+* **Universidade**: Terminando Análise e Desenvolvimento de Sistemas
