@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfugimoto" alt="danielfugimoto" /></a> </p>
 
-- 🔭 I’m currently working on **Professor de curso Técnico**
+- 🔭 Atualmente trabalho como **Professor de curso Técnico**
 
-- 👨‍💻 All of my projects are available at [https://danielfugimoto.github.io/dfugimoto/index.html#](https://danielfugimoto.github.io/dfugimoto/index.html#)
+- 👨‍💻 Meus projetos estão em: [https://danielfugimoto.github.io/dfugimoto/index.html#](https://danielfugimoto.github.io/dfugimoto/index.html#)
 
-- 📫 How to reach me **dksfugimoto@gmail.com**
+- 📫 Entre em contato pelo email: **dksfugimoto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
