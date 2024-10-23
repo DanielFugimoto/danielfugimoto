@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho como **Professor de curso Técnico**
 
-- 👨‍💻 Meus projetos estão em: [https://danielfugimoto.github.io/dfugimoto/index.html#](https://danielfugimoto.github.io/dfugimoto/index.html#)
+- 👨‍💻 Meus projetos estão em: [danielfugimoto.com.br](https://danielfugimoto.com.br)
 
 - 📫 Como entrar em contato: **dksfugimoto@gmail.com**
 
