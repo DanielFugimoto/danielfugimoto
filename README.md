@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielfugimoto&label=Profile%20views&color=0e75b6&style=flat" alt="danielfugimoto" /> </p>
 
 
-- 🔭 Atualmente trabalho como **Professor de curso Técnico**
+- 🔭 Atualmente trabalho como **Desenvolvedor Front-End**
 
 - 👨‍💻 Meus projetos estão em: [danielfugimoto.com.br](https://danielfugimoto.com.br)
 
