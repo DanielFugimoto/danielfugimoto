@@ -62,15 +62,6 @@ Planejamento e ministração de aulas práticas em **desenvolvimento de sistemas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfugimoto&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-###
-
-<picture height="160">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 ---
 
 ## 🌐 Conecte-se comigo
