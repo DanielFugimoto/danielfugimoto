@@ -1,61 +1,53 @@
-# 👋 Olá, eu sou o Daniel Fugimoto!
+👋 Hi, I'm Daniel Fugimoto
 
-💻 **Desenvolvedor Full-Stack (ênfase em Front-End)**  
-🎯 Criando interfaces rápidas, responsivas e conectadas de ponta a ponta com **Vue.js, React e Python**.  
-🚀 Apaixonado por tecnologia, educação e boas práticas de código.
+💻 Full-Stack Developer (focused on Front-End)
+🎯 Building fast, responsive, and well-integrated interfaces
+🚀 Passionate about technology, teaching, and clean code practices
 
----
+🌟 About me
 
-## 🌟 Sobre mim
+Since 2021, I’ve been developing applications with a strong focus on performance and user experience.
 
-Sou desenvolvedor desde 2021, com foco em **interfaces performáticas** e **experiências fluídas**.  
-Atuo com **Vue.js (Vuetify)** e **React**, além de contribuir no back-end com **Python (APIs, automações e integrações)**.  
-Gosto de unir o lado técnico ao didático — algo que também aplico como **professor técnico**.
+I mainly work with Vue.js (Vuetify) and React on the front-end, and also contribute on the back-end using Python, building APIs, automations, and integrations.
 
----
+Besides coding, I enjoy teaching — I work as a technical instructor, which further strengthens my focus on writing clean, well-structured, and easy-to-understand code.
 
-## 🧠 O que estou aprendendo atualmente
+🧠 Currently focusing on
+Improving my back-end skills, especially with REST APIs and data modeling
+Enhancing integration between front-end and back-end
+Writing code that is increasingly simple, reusable, and readable
+🛠️ Technologies & Tools
 
-- Aprimorando conhecimentos em **REST APIs**, **modelagem de dados** e **boas práticas de back-end**  
-- Explorando novas formas de integração entre **front e back-end**  
-- Sempre em busca de escrever código **limpo, reutilizável e legível**
+Languages
+JavaScript (ES6+) • TypeScript • Python
 
----
+Frontend
+Vue.js (Vuetify) • React • SPA • Responsive Design • Basic Accessibility
 
-## 🛠️ Tecnologias & Ferramentas
+Backend
+Python (APIs, services)
 
-**Linguagens:**  
-`JavaScript (ES6+)` • `TypeScript` • `Python`  
+Others
+Git • GitHub • Scrum • Kanban
 
-**Frontend:**  
-`Vue.js (Vuetify)` • `React` • `SPA` • `Responsividade` • `Acessibilidade básica`  
+💼 Professional Experience
 
-**Backend:**  
-`Python (APIs, serviços)`  
+🚜 FarmGO
+ — Front-End Developer (Nov/2024 – Present)
+Development and maintenance of high-performance web interfaces using Vue.js + Vuetify, integration with REST APIs, and collaboration with back-end services in Python.
 
-**Outros:**  
-`Git` • `GitHub` • `Scrum` • `Kanban`  
+🏫 State of Paraná — Technical Course Instructor (Feb/2024 – Present)
+Planning and delivering hands-on classes in systems development, mentoring student projects, and giving technical talks.
 
----
+🎓 Education
 
-## 💼 Experiência Profissional
+Software Engineering — Unicesumar
 
-**🚜 [FarmGO](https://farmgo.com.br)** — *Desenvolvedor Front-End* (Nov/2024 – atual)  
-Desenvolvimento e manutenção de interfaces web performáticas em **Vue.js + Vuetify**, integração com **APIs REST** e colaboração com back-end em **Python**.
-
-**🏫 Estado do Paraná** — *Professor de Curso Técnico* (Fev/2024 – atual)  
-Planejamento e ministração de aulas práticas em **desenvolvimento de sistemas**, mentoria de projetos e palestras técnicas.
-
----
-
-## 🎓 Formação
-
-**Engenharia de Software — [Unicesumar](https://www.unicesumar.edu.br/)**  
-📚 *2023 – atual*
+📚 2023 – Present
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielfugimoto&show_icons=true&theme=tokyonight" height="160"/>
@@ -64,7 +56,7 @@ Planejamento e ministração de aulas práticas em **desenvolvimento de sistemas
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-fugimoto)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielfugimoto)
@@ -73,6 +65,6 @@ Planejamento e ministração de aulas práticas em **desenvolvimento de sistemas
 
 ---
 
-> *“Código limpo é como uma piada boa: se precisa ser explicada, não é tão boa assim.”* 😄
+> *“Teaching what I build, building what I teach”* 
 
 ---
