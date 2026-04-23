@@ -64,7 +64,7 @@ Planejamento e ministração de aulas práticas em **desenvolvimento de sistemas
 
 ###
 
-<picture>
+<picture height="160">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanielFugimoto/DanielFugimoto/output/pacman-contribution-graph.svg">
