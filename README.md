@@ -6,11 +6,11 @@
 
 🌟 About me
 
-Since 2021, I’ve been developing applications with a strong focus on performance and user experience.
+Since 2024, I’ve been developing applications with a strong focus on performance and user experience.
 
 I mainly work with Vue.js (Vuetify) and React on the front-end, and also contribute on the back-end using Python, building APIs, automations, and integrations.
 
-Besides coding, I enjoy teaching — I work as a technical instructor, which further strengthens my focus on writing clean, well-structured, and easy-to-understand code.
+Besides coding, I enjoy teaching, I work as a technical instructor, which further strengthens my focus on writing clean, well-structured, and easy-to-understand code.
 
 🧠 Currently focusing on
 Improving my back-end skills, especially with REST APIs and data modeling
