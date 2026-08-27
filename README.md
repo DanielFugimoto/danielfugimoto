@@ -17,10 +17,9 @@
 
 Front-End Developer focused on building and maintaining production web applications with **JavaScript**, **Vue.js**, and **React** in Agile environments. I care about clean, maintainable code, reliable interfaces, and good documentation.
 
-Currently working across two companies — one Brazilian agtech startup and one remote US-based product — while also teaching Systems Development at a technical school in Paraná.
+Currently working across two companies, one Brazilian agtech startup and one remote US-based product.
 
 - 🏢 Front-End Developer at **FarmGO** (Vue.js + TypeScript)
-- 🎓 Teaching **Systems Development** at Paraná State Technical School
 - 📚 Studying **Software Engineering** at Unicesumar (2023–2027)
 
 ---
