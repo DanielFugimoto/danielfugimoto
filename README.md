@@ -16,7 +16,7 @@
 
 ### 🚀 About me
 
-Front-end developer focused on **React**, **Vue.js**, and **TypeScript**, working on the continuous evolution of production web platforms. I translate business requirements and Figma prototypes into reusable component architecture, accessible and responsive interfaces (mobile, tablet, and desktop), and integrations with REST APIs of distributed services — including handling of asynchronous loading, error, and empty states.
+Front-end developer focused on **React**, **Vue.js**, and **TypeScript**, working on the continuous evolution of production web platforms. I translate business requirements and Figma prototypes into reusable component architecture, accessible and responsive interfaces (mobile, tablet, and desktop), and integrations with REST APIs of distributed services including handling of asynchronous loading, error, and empty states.
 
 Consistent quality practices: automated testing (Jest), code review, refactoring, standardization of shared components, and technical documentation to ease adoption by other teams. Complementary back-end background (Node.js/TypeScript, Python, PostgreSQL/Supabase) that facilitates collaboration with APIs and platform teams.
 
